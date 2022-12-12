@@ -179,6 +179,7 @@ desc-message {
     display: block;
 }
 
+
 @media (min-width: 1024px) {
     #scroll-section-0 h1 {
         font-size: 9vw; /* 윈도우 화면의 9% 사이즈 */
